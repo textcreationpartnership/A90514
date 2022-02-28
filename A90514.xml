@@ -1,0 +1,495 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Sōma ptōma autōs eniautōs. = The year running into his first principles, or the buriall of the old year, or man. A sermon, intended to be preached at the funeral of M. Edmund Whitwell, deputy of S. Olaves Bread-street, in the citie of London. By Philip Perrey Master of Arts of Clare-hall in Cambridge, rector of S. Michael in the suburbs of Bristol by presentation, and by election pastor of Bedeminster, near adjoyning to the said citie of Bristol.</title>
+            <author>Perrey, Philip.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1654</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 73 KB of XML-encoded text transcribed from 21 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90514</idno>
+            <idno type="STC">Wing P1591</idno>
+            <idno type="STC">Thomason E729_8</idno>
+            <idno type="STC">ESTC R203160</idno>
+            <idno type="EEBO-CITATION">99865944</idno>
+            <idno type="PROQUEST">99865944</idno>
+            <idno type="VID">118200</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A90514)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 118200)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 112:E729[8])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Sōma ptōma autōs eniautōs. = The year running into his first principles, or the buriall of the old year, or man. A sermon, intended to be preached at the funeral of M. Edmund Whitwell, deputy of S. Olaves Bread-street, in the citie of London. By Philip Perrey Master of Arts of Clare-hall in Cambridge, rector of S. Michael in the suburbs of Bristol by presentation, and by election pastor of Bedeminster, near adjoyning to the said citie of Bristol.</title>
+                  <author>Perrey, Philip.</author>
+               </titleStmt>
+               <extent>[6], 35, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by W.B. for John Saywell, and are to be sold at the sign of the Grey-Hound, in little Brittain, without Alders-gate.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1654.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>First four words of title are in Greek characters.</note>
+                  <note>Annotation on Thomason copy: "Febr. 14 1653"; the 4 in the imprint date has been crossed out.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Whitwell, Edmund --  Early works to 1800.</term>
+               <term>Bible. --  N.T. --  Romans VI, 23 --  Sermons.</term>
+               <term>Funeral sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-12</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2010-12</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:118200:1" rendition="simple:additions"/>
+            <p>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>
+            </p>
+            <p>
+               <hi>The year running into his firſt Principles, or the buriall of the Old year, or Man.</hi>
+            </p>
+            <p>Rom. 6.23.</p>
+            <p>A SERMON, Intended to be preached at the Funeral of M. <hi>Edmund Whitwell,</hi> Deputy of S. <hi>Olaves Bread-ſtreet,</hi> in the Citie of LONDON.</p>
+            <p>
+               <hi>By</hi> Philip Perrey <hi>Maſter of Arts of</hi> Clare-hall <hi>in</hi> Cambridge, <hi>Re<g ref="char:EOLhyphen"/>ctor of S.</hi> Michael <hi>in the ſuburbs of</hi> Briſtol <hi>by preſentation, and by election Paſtor of</hi> Bedeminſter, <hi>near adjoyning to the ſaid Citie of</hi> Briſtol.</p>
+            <q>
+               <hi>Mori certum, quando mori incertisſimum.</hi>
+            </q>
+            <figure/>
+            <q>
+               <hi>In ſylvis Leporem, in verbis quaere Leporem.</hi>
+            </q>
+            <p>
+               <hi>London,</hi> Printed by <hi>W. B.</hi> for <hi>John Saywell,</hi> and are to be ſold at the ſign of the <hi>Grey-Hound,</hi> in little Brittain, without Alderſ-Gate. 1654.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:118200:2"/>
+            <pb facs="tcp:118200:2"/>
+            <head>To his painfull and Induſtrious Fa<g ref="char:EOLhyphen"/>ther, well-wiſher to learning, Warden of the Fiſh<g ref="char:EOLhyphen"/>mongers Company in Alderman <hi>Lemmonds</hi> time, and now one of the Livery; greeting.</head>
+            <opener>
+               <salute>Loving Father,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>O write or dictate many words to you, it will be counted but ſuperfluity. But yet leaſt I ſhould be guilty of Aſtorgy, want of affection to you my Parents; I entreat you (good Sir) to accept of theſe few lines in a Sermon of mor<g ref="char:EOLhyphen"/>tality, as a true ſign and ſymptome of my thankful<g ref="char:EOLhyphen"/>neſs to you for my education, and my preſervation (under God) in my ſickneſs. Your extream charges and love I acknowledge, and for this I ſhall pray that you may return to Heaven in a full age (not yet I hope) And reſt</p>
+            <closer>
+               <signed>
+                  <hi>Your dutifull and much Obliged Son</hi>
+PHILIP PERREY. M. A.</signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb facs="tcp:118200:3"/>
+            <head>TO ELISABETH, the Widdow of M<hi rend="sup">r</hi>. <hi>Edmund Whitwell,</hi> Deputy of S. <hi>Olaves Breadſtreet,</hi> greeting.</head>
+            <p>
+               <seg rend="decorInit">B</seg>Efore I ſpeak not to, but of the dead, (dear Widdow) the Apostle tells me it is good man<g ref="char:EOLhyphen"/>ners to viſit the Widdow. I cannot, I may not, it ſeems by hand; but it is no unmanner<g ref="char:EOLhyphen"/>lineſs to viſit you by my pen, the attendant of my hand, Your Husband is diſpatched by the hand of cruel death, and I am ſure it was time, becauſe God had ſo determined to in<g ref="char:EOLhyphen"/>terre the old not the young: My Wife is departed (the more is my grief) whether by death, or ſome other diſaſter, I am yet uncertain. But that's not ſo much to my preſent purpoſe. And beſides (though ſome have reported, that to much learning hath made me mad, this I write with a bluſhing pen,) I am loath by a woeing letter, to turn your mourning Weeds into Hymens garments to quickly: Nei<g ref="char:EOLhyphen"/>ther know I any reaſon why I ſhould. Receive onely I pray, as a Symptome of my thankfulneſs to you living, theſe few lines, after your Husbands deceaſe. He that renders thanks for one benefit, wittily and cunningly asks another (ſayes <hi>Seneca:</hi>) But the latter is none of my intent; My aime is onely to free my ſelf from ingratitude, to your Son in Law Mr. <hi>Peares.</hi> And indeed I do this, mindeing and recording the Apoſtles words:
+<note place="margin">
+                  <hi>James</hi> 1.27.</note> Pure religion and undefiled, is to viſit the Fatherleſs and the Widdow, and to live un<g ref="char:EOLhyphen"/>ſpotted unto the Lord, or from the World. <hi>Farewell.</hi>
+            </p>
+            <closer>
+               <dateline>
+                  <hi>From my Chamber at the golden</hi> Lion <hi>in</hi> Barbican, <hi>in the Suburbs of</hi> London.
+<date>February 25. 1654.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="poem">
+            <pb facs="tcp:118200:3"/>
+            <head>The ELEGIE Ogdodecaſtichon in E. W. Bur. by M. the SCOT.</head>
+            <lg>
+               <l>HEre lies S. <hi>Olaves</hi> Deputy, 't is true;</l>
+               <l>But who muſt now ſucced? O ſure 't is you,</l>
+               <l>Weeden by name; the firſt is gone, the beſt</l>
+               <l>The grave encloſes now, the bodies reſt.</l>
+               <l>And is the White Roſe cut? muſt Weeds ſucceed?</l>
+               <l>O this is it may make thy heart to bleed.</l>
+               <l>(Dear Widdow) Thy portion and thy lot</l>
+               <l>Is God. A Husband for thee; now the <hi>Scot</hi>
+               </l>
+               <l>Hath hid this Roſe, or <hi>Olave</hi> in the grave;</l>
+               <l>O would the ſtone had choaked death the Slave.</l>
+               <l>And muſt a <hi>Scot,</hi> who brought all evil hither?</l>
+               <l>Conduct my Sheep as to a loud belweather?</l>
+               <l>Unto his pen? My pen ſhall write no more,</l>
+               <l>'t Is cruel death hath robb'd me of my ſtore.</l>
+               <l>Of which, I pray receive this boon, but little</l>
+               <l>To adorn the body of our honour'd Whittle.</l>
+               <l>Adieu beholders look on me no more,</l>
+               <l>For Almes now reſort to the Widdows door.</l>
+            </lg>
+         </div>
+         <div type="poem">
+            <pb facs="tcp:118200:4"/>
+            <p>Or thus:</p>
+            <lg>
+               <l>HEre lies the body of Soapboyler <hi>Whitwell;</hi>
+               </l>
+               <l>'t Is well: But where's his Soul? in Hell?</l>
+               <l>O no, the Elyſian fields receive</l>
+               <l>Souls ſtrip't of bodies, whom death doth bereave</l>
+               <l>Us off. The Uſurer's at his heels,</l>
+               <l>And what then may you imagine his Soul feels?</l>
+               <l>No ſmart I hope. Death is three fold, Corporal,</l>
+               <l>Which makes us ſtand, Male, Female, and all.</l>
+               <l>The next is Spiritual, but what's that?</l>
+               <l>It is above the head; call it the hat.</l>
+               <l>The third's Eternal, (from which deliver us Lord)</l>
+               <l>Of Angels, men, and fiends it is abhorr'd.</l>
+               <l>At death the dole is given, eternal life;</l>
+               <l>Which is thy Husbands. What haſt thou? (dear wife)</l>
+               <l>An earthly Tabernacle here below?</l>
+               <l>If thou't reap joy, grudge not in tears to ſow.</l>
+               <l>The cuſtom's now to ask, what art thou? Then</l>
+               <l>What haſt thou? the Cock being dead (ſweet Hen)</l>
+               <l>Pardon my boldneſs, (dear Miſtreſs) now Adieu,</l>
+               <l>Your friend (not foe) thus truely bids to you.</l>
+            </lg>
+            <closer>
+               <signed>
+                  <hi>Thine (ſo much as thou mayeſt be mine, or I mine own.)</hi>
+PHILIP PERREY. Miniſt.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:118200:4"/>
+            <head>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> The year running into his first principles, or the burial of the old year, or Man.</head>
+            <epigraph>
+               <bibl>Rom. 6.23.</bibl>
+               <q>For the wages of ſin is death, <hi>&amp;c.</hi>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">T</seg>Here is a twofold ſtate of Man often incul<g ref="char:EOLhyphen"/>cated, and mentioned among the Divines; one of which was before his fall, the other after it: The one a ſtate of happineſs, be<g ref="char:EOLhyphen"/>cauſe it had freedom adjoyned to it, the other a ſtate of unhappineſs. Inſomuch as Man then (who was here<g ref="char:EOLhyphen"/>tofore the Viceroy of the whole World, a Lord at leaſt, and free) was now brought under ſubjection, into a condition vile, and beneath his firſt Creation; a ſtate of ſervice, yea, bondage. The firſt, I ſay, was the ſtate of innocency, wherein man had ſuch authority and power given unto him, that he might become Lord over all, but him onely, who was Lord of all, even God him<g ref="char:EOLhyphen"/>ſelf, which (as <hi>Aquinas</hi> ſayes) is ens <hi>primum tempore, eſſentiâ &amp; dignitate,</hi> wherein he was ſo far from ſervice or ſlavery, that he had, as a Lord protectour, or di<g ref="char:EOLhyphen"/>rectour
+<pb n="2" facs="tcp:118200:5"/>of all the Creatures, he had almoſt the Su<g ref="char:EOLhyphen"/>pream, the higheſt power, a good ſtate, and well liked of to, by Man and Woman; till the old Serpent had buz'd,
+<note place="margin">Gen. 3.</note> or rather his't in their ears; <hi>eritis ſicut dij.</hi> It is a royalty, a licence granted unto him, (before his fatall marriage of the Woman to him, or rather extraction out of him, his ſide, <hi>telum intra propria latera vibrans</hi>) from Gods own mouth.
+<note place="margin">Gen. 1.28.</note> Have dominion over the fiſh of the Sea <hi>(mas in mare tanquam ſydus non planeta prae<g ref="char:EOLhyphen"/>dominans)</hi> and over the fowle of the Aire, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>quaſi</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> (<hi>os homini ſublime,</hi>
+               <note place="margin">Ovid.</note> &amp;c. this may be one reaſon ſubordinate why he was made upward that his thoughts ſhould fly upward <hi>ad inſpectionem volatilium.</hi>
+               <note place="margin">Exp. loci.</note> our Saviour ſent us to the Sparrows for the worth of one farthing two of them) and over every living thing that lives upon the face of the earth. <hi>Homo ab Humo.</hi> The former intends the ſublimity of his Soul; this the terreſtreity, or mortality of his body. But alas, <hi>quantum mutatus ab ipſo?</hi> What a ſudden, yea, ſtrange altera<g ref="char:EOLhyphen"/>tion I had almoſt ſaid altercation) do we finde? Be<g ref="char:EOLhyphen"/>hold now another kinde of man, (the Elements begin in his body and the towring thoughts of his Soul to commence a civil uncivil war within themſelves. He, which before with Dives, ſate as it were in an imperial Throne of Majeſty, is preſently caſt down with <hi>Laza<g ref="char:EOLhyphen"/>rus</hi> full of ſores, <hi>i.</hi> ſins into an unexpected dungeon of miſery. He, who was to day Lord <hi>Paramount</hi> of all, to morrow, yea even the very ſame day ſtrangely de<g ref="char:EOLhyphen"/>jected and caſt down,
+<note place="margin">Calv.</note> for ſome Divines hold that he fell in the very ſame day, in which he was created. He, I ſay, though he were in the morning chief maſter of
+<pb n="3" facs="tcp:118200:5"/>all, was by the following night, (for what if his ſin which is a work of darkneſs was then committed?) fain to crave aid and help of thoſe which were his ſer<g ref="char:EOLhyphen"/>vants, even the very Creatures: and not the beſt, but the worſt of them, a few Fig-leaves to keep him, as he thought, from the ſight of his jealous, incenſed, and al<g ref="char:EOLhyphen"/>ſeeing omniſcient Creatour. But ſure, he who like a Courtier, was at the top Pinacle of honour, was not thus ſuddenly caſt down, and out of favour for no<g ref="char:EOLhyphen"/>thing. No ſure; This would argue a kinde of raſh<g ref="char:EOLhyphen"/>neſs and imprudence too in him. Who was wiſedom it ſelf (God the Son I mean coeſſential and coeternal with the Father, yea, coequal ſayes the Apoſtle) yea,
+<note place="margin">
+                  <hi>Athan.</hi> Phil. 2.9.</note> certainly there was a cauſe for the infliction of this pu<g ref="char:EOLhyphen"/>niſhment. Sin it was which made that <hi>liberum animal,</hi>
+               <note place="margin">(Ameſ.).</note> that had <hi>liberam voluntatem &amp; arbitrium.</hi> That Ma<g ref="char:EOLhyphen"/>jeſtical creature, who onely of all the reſt had the be<g ref="char:EOLhyphen"/>nefit of free-will and arbitrement, thus to be capti<g ref="char:EOLhyphen"/>vated to and yield obedience to the baſer disaffections of his Soul. His unbelief, his pride, his deſpair, his overcurioſity in prying into Gods ſecret knowledge,
+<note place="margin">
+                  <hi>Inſt. l.</hi> 1.</note> with many other ſins, which <hi>Calvin</hi> and other Divines reckon up in the taſting of the Apple, or Fig, which for all it hung ſo high on the Tree, cauſed man <hi>arborem inverſam,</hi> thus to fall. Some imagine about Autumne: the fall of the leaf. I am ſure he had brought forth lit<g ref="char:EOLhyphen"/>tle, or no fruit, being <hi>arbor</hi> not onely <hi>nata,</hi> but <hi>ſata</hi> be<g ref="char:EOLhyphen"/>tween the four great waters. Theſe were the things,
+<note place="margin">Gen. 2. <hi>B.</hi> of <hi>Wells.</hi> in <hi>Pſ.</hi> 1. <hi>Luke</hi> 10.7.</note> which brought him into bondage, and made him that was free become a ſervant at leaſt, if not a ſlave. And ſure the labourer is worthy of his hire ſays the Evan<g ref="char:EOLhyphen"/>geliſt
+<pb n="4" facs="tcp:118200:6"/>from Chriſt. But it muſt be in the ſame kinde, and agreeing to the nature of the ſervice. Now <hi>Adam,</hi> and ſo conſequently his whole poſterity, (for as is the root, ſo are the branches) which had this ſin, not onely by imitation,
+<note place="margin">Auſt.</note> (which was the errour of the <hi>Pelagians</hi>) but by propagation to. The nature it ſelf is corrupted. And for this act of infamy man is too famous, for this unworthy act worthy of a recompence, of pay for his work In which, becauſe he did nothing elſe but as it were ſeek his own deſtruction, and diſſolution of his bo<g ref="char:EOLhyphen"/>dy and ſoul; God rewarded him accordingly, gave him that he ſought for, even death it ſelf. Which both according to Philoſophers and Divines to is <hi>diſſolutio corporis &amp; animae:</hi>
+               <note place="margin">Ariſt.</note> A divorce of the body from the Soul. Which was according to Gods own compoſi<g ref="char:EOLhyphen"/>tion with him, he agreed with him for ſo much, and no more,
+<note place="margin">Gen. 2.17.</note> nor no leſs. In the day that thou eateſt there<g ref="char:EOLhyphen"/>of thou ſhalt ſurely die; dying thou ſhalt die, the <hi>Hebrew</hi> ſignifies, (as the marginal Notes declare.) And he (who was the truth it ſelf) would not be worſe than his word. All which our Apoſtle here conſider<g ref="char:EOLhyphen"/>ing; and withall ſetting down Man, as he was indeed, in the form of a ſervant (the maſter was ſo,
+<note place="margin">Phil. 2.</note> &amp; the ſervant is not above the maſter) where he mentions the hire it ſelf that was paid him for his ſervice. The ſumme total of which is ſignificantly expreſt in the firſt Meta<g ref="char:EOLhyphen"/>phorical words of the Text. The wages of ſin is death. Where S. <hi>Paul</hi> following this appoſite allegory of ſer<g ref="char:EOLhyphen"/>vice and freedom: (becauſe righteouſneſs is a ſtate of freedom, and ſin of ſlavery, which ſtate, it may be of ſervice by reaſon of the indiſcretion of their depraved
+<pb n="5" facs="tcp:118200:6"/>nature agrees better to them than power, or dominion) therefore the Apoſtle bids them, if they will needs be ſervants to make choice of the beſt maſters they can, not tyrannizing and domineering ſin, but meek and heart-winning righteouſneſs, <hi>verſ.</hi> 18. of this Chapter.
+<note place="margin">Rom. 6.22.18.</note> Being then made free from ſin, ye become ſervants of righteouſneſs. In which approbation of their preſent ſtate is a kinde of exhortation for their continuance in the ſame. But yet if they would by no fair means be recalled from the ſervice of ſin, he would trie whether terrour would divert them from it. And therefore lays down the words of the Text, as a terrifying reaſon and dehortation unto them, for the wages, <hi>&amp;c.</hi> A thing ac<g ref="char:EOLhyphen"/>counted moſt terrible amongſt the Heathen, except ſome of their <hi>Heroes,</hi> or noble ſpirits, their high-minded volunteers, but of others much feared and hated. As if the Apoſtle ſhould have thus expoſtulated with them, why you, O <hi>Romanes,</hi> who have heretofore lived by the light of nature, wanting, or at leaſt being with<g ref="char:EOLhyphen"/>out the light of grace, and ſo have been ſuperſtitiouſly ignorant of the deity, and changed the glory of the un<g ref="char:EOLhyphen"/>corruptible God into an image made like unto cor<g ref="char:EOLhyphen"/>ruptible man, birds, <hi>&amp;c.</hi> changeing the truth of God unto a ly; worſhipping and ſerving the creature more than the Creatour, 1 <hi>Rom.</hi> 21. and in this have com<g ref="char:EOLhyphen"/>mitted moſt abominable Idolatry, with many other moſt execrable ſins. I tell you now, &amp; even weeping, the end of theſe ways, of theſe ſins is none other but ſorrow, and even death it ſelf. The cataſtrophe and concluſion of ſorrow, (it ought be at leaſt, for we muſt not be ſorry as men without hope. You there<g ref="char:EOLhyphen"/>fore
+<pb n="6" facs="tcp:118200:7"/>that accounted ſo much of life, that (as the Ora<g ref="char:EOLhyphen"/>tor ſpeaks) <hi>quaevis ſit ratio expediendae ſalutis,</hi>
+               <note place="margin">Tullie.</note> any way to ſave life and health;
+<note place="margin">Ariſt.</note> and that death, as the Philoſopher ſpeaks, is <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>; the moſt terrible of terribles. Let it then work the ſame ef<g ref="char:EOLhyphen"/>fect upon you, as it is in it ſelf, to wit, fear. For the end of theſe ſinfull wayes of yours is no better, the wages of your ſins is death. In which words you may obſerve with me theſe two general parts. 1. Here is the ſlavery, bondage, and ſervice of man, ſignified and expreſſed unto us by the firſt word of the Text wages, being a thing properly belonging unto ſervants, which is likewiſe declared unto us by the matter of the ſer<g ref="char:EOLhyphen"/>vice, which was ſin. The wages of ſin. 2. Here is the <hi>ſtipend,</hi> or pay that he received for his ſervice, and that was death. <hi>Stipendium peccati mors eſt.</hi> The wages of ſin is death. And thus you have the diviſion of the firſt part of this verſe. The words which at this time we mean to treat of. And firſt of the firſt, The ſlavery, bondage, or ſervice of man, ſignified by that word, Wages, and further demonſtrated unto us by the matter, or the manner of the ſervice, which was ſin, the Wages of ſin. From whence without any further am<g ref="char:EOLhyphen"/>bages, or circumlocutions, you may obſerve this very uſefull Doctrine following from the words.</p>
+            <p>
+               <hi>Doct.</hi> The ſtate of every man in ſin, is a ſtate of ſlavery, bondage, or ſervice at the leaſt. They were comminatory &amp; angry words of God unto <hi>Adam,</hi> the Father of us all,
+<note place="margin">Gen. 3.17.</note> 
+               <hi>Gen.</hi> 3.17. Curſed is the ground for thy ſake, in ſorrow ſhalt thou eat of it all the days of thy life. With ſorrow! What's that? 1. With much la<g ref="char:EOLhyphen"/>bour
+<pb n="7" facs="tcp:118200:7"/>and toyl thou ſhalt eat it, which before might have come up freely, ſignifying the ſlaviſh and ſervice<g ref="char:EOLhyphen"/>able eſtate of <hi>Adam</hi> after the commiſſion of ſin.
+<note place="margin">Verſ. 19.</note> And we ſure, which are <hi>ex eodem luto confecti,</hi> from duſt as well as he can receive no duſt from this duſt of the earth except we labour. It was ſin that did bring us into this toyl. We, whoſe teeth are ſet on edge by our forefathers taſting of the ſower Grapes, muſt likewiſe have ſome ſower ſauce by reaſon of our ſins mingled with our ſweet pleaſures: ſerve we muſt, if we will live, ſince by the leaſt ſin we have deſerved death, (yea, eternal, <hi>ex conſideratione oppoſiti</hi> in the end of the verſe) and this long ago. <hi>Non citius nati quam damnati. (Auſt.)</hi> No ſooner born to live, but if God had not born the longer by his mercy with us, we might very juſtly have been deprived of life, and ſo made ſubject unto death. As we are born ſervants to it (from the wombe to the tombe ſometimes) that was to pay us our due.
+<note place="margin">Gen. 3.19.</note> In the ſweat of thy face ſhalt thou eat bread (ſayes <hi>Jehovah</hi>) ſerve thou muſt, if thou wilt have bread to eat, ſin hath brought thee to it, for the condition of every ſinner is a ſtate of ſervice.
+<note place="margin">Gen. 9.21.</note> When <hi>Noah</hi> had committed that foul ſin of drunkenneſs, the words are, He drank of the Wine and was drunken. See here the true, but ſad effect of this ſin according to that of the Poet.
+<note place="margin">Ovid.</note> 
+               <hi>Quid non ebrie<g ref="char:EOLhyphen"/>tas deſignat? operta recludit.</hi> This ſin of his was not ſo cloſely done, but that it will diſplay, and lay open his nakedneſs. And his own ſon, whom natural duty bound to conceal, yet layes it open further, and reveals it to his other brethren. A moſt abominable ſin to vilifie ſo much, and neglect him, who under God was the cauſe
+<pb n="8" facs="tcp:118200:8"/>cauſe of his being. <hi>Sanctum Patris nomen,</hi> eſpecially of ſuch a one the name is holy, and therefore he a moſt unſanctified Childe to ſhow ſuch ſtrange irreverence to his moſt reverend Father. A moſt execrable ſin. And behold therefore now (which is the thing I intended to note for our preſent purpoſe) ſee I ſay,
+<note place="margin">Verſ. 25.</note> the event, the due puniſhment inflicted upon it in <hi>verſ.</hi> 25. of the fore<g ref="char:EOLhyphen"/>named you finde it. Curſed be <hi>Canaan,</hi> a ſervant of ſervants ſhall he be unto his brethren, and not onely in the general together;
+<note place="margin">Verſes 26.27.</note> but to both them ſeverally in the ſubſequent 26. <hi>and</hi> 27. <hi>verſes.</hi> Bleſſed be the Lord God of <hi>Shem,</hi> and <hi>Canaan</hi> ſhall be his ſervant, and again God ſhall enlarge <hi>Japhet,</hi> and <hi>Canaan</hi> ſhall be his ſervant, a recompence due unto him for ſo vile an act.
+<note place="margin">Verſ. 26.27.</note> He that would be ſo high, that by reaſon of his neglect he ſeems to be above his Father, it were high time he were brought lower. He that was ſo free of ſhowing his fathers ſhame, and ſo liberal in his ſcoffing, muſt now be brought down, that free<g ref="char:EOLhyphen"/>dom muſt be taken from him; and for this ſin he muſt be made to ſerve, and that which yet further aggra<g ref="char:EOLhyphen"/>vates his miſery, his brethren: Now they'l put off their brotherlike bonds and affections, and lay a yoke upon his neck, ſerve he muſt, becauſe he had ſinned, and ſerve his brother becauſe he had offended and ſin<g ref="char:EOLhyphen"/>ned againſt his Father: the ſon being moſt obliged to exact recompence for the offence done to the parent. Places for the proof of this Doctrine are very frequent in holy writ. I will name onely one, or two more, and I hope theſe one, or two witneſſes will be ſufficient for the confirmation of the truth of this poſition unto
+<pb n="9" facs="tcp:118200:8"/>you. The Apoſtle proves this, ſpeaking of ſin,
+<note place="margin">Rom. 6.19.</note> Ye have yielded your ſelves ſervants to uncleanneſs, and to iniquitie unto iniquitie. A ſtrange ſeeming tan<g ref="char:EOLhyphen"/>tologie; But <hi>Galvin</hi> renders a very good reaſon for it. The firſt is oppoſed to ſanctity towards God, or holi<g ref="char:EOLhyphen"/>neſs of life; The latter hath a reſpect to the injuries of<g ref="char:EOLhyphen"/>fered to our Neighbours, as the very words do ſignifie, <hi>ut Iniquitas quaſi non Equitas, quae fit inter aequales:</hi> to our Neighbours, which are of the ſame nature, and equal to us by creation, (not in regard of God who is above us.) And by the ſecond repeated iniquity, which takes away the ſeeming tantologie, he means <hi>univerſa<g ref="char:EOLhyphen"/>lem naturae corruptionem,</hi> the whole corruption of mans nature: unto corruption, <hi>i.e.</hi> adding more unto the for<g ref="char:EOLhyphen"/>mer, <hi>ut iniquitatis regnum in vobis vigeret,</hi> that the Kingdom of ſin may flouriſh, and you become capti<g ref="char:EOLhyphen"/>vated ſlaves and vaſſals unto that old tyrant the Devil; and all this by reaſon of your ſin: That is it which makes you ſervants, S. <hi>Paul</hi> inſinuates no leſs.
+<note place="margin">Tit. 3.3.</note> For we our ſelves alſo were ſometimes fooliſh, diſobedient, de<g ref="char:EOLhyphen"/>ceived, ſerving divers luſts and pleaſures. I might in<g ref="char:EOLhyphen"/>deed have gone further in the proof of this, eſpecially to men of this age, that take ſo much delight in this thraldom, that they ſeem rather to think it a maſter<g ref="char:EOLhyphen"/>ſhip then a ſervice. But as the proverb ſaith, <hi>verbum ſapienti ſat' eſt,</hi> to you whom I perceive not the un<g ref="char:EOLhyphen"/>wiſeſt readers, I know it may ſuffice. Others, if they deſire more, I muſt reply to them, as he to his good holding ſtomack't gueſt, eſpecially at this feſtival time of Chriſts Nativity, for I ſuppoſe, yea, I think I may determine, he was born in Winter:
+<note place="margin">Luke 1.</note> for the Shep<g ref="char:EOLhyphen"/>hards
+<pb n="10" facs="tcp:118200:9"/>were in the field praiſing God for it, and why ſhould not we. We can mump a Nativity Pie, <hi>&amp;c.</hi> and muſt that ſtop the mouth ſo much, that we may not praiſe God for his Sons incarnation, <hi>fiat voluntas Dei,</hi> ſayes my diurnal prayer.
+<note place="margin">Math 6.</note> If ſome be ſatisfied it is ſuf<g ref="char:EOLhyphen"/>ficient, <hi>unus not ſufficit omni:</hi> Or as that diſtreſſed client to the over hearing judge. <hi>Audi Alteram partem,</hi> Hear the reſt, (then let him give a <hi>quietus eſt.</hi>) And it may be in that thou mayeſt pick ſome thing more, that may ſatisfie thy appetite. In the mean time I ſhall de<g ref="char:EOLhyphen"/>ſcend to ſome particulars, and that more clearly, yet to demonſtrate unto thee (moſt courtious Reader) the truth of that general I propounded, man a ſinner is tru<g ref="char:EOLhyphen"/>ly called a ſervant: And that both according to the in<g ref="char:EOLhyphen"/>ward and outward part of man. His body is nothing elſe but the meer embleme of ſlavery and ſervitude; which ſeems to be born to little elſe but labour, toil, and trouble. He hath greater variety of work belong<g ref="char:EOLhyphen"/>ing to the body, then he hath members to perform them. Thoſe feet which were ſo ſwift to commit the ſin <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, are now ſlow enough to undergo the ſervice. The hands which were ſo nimble to reach the forbidden fruit prepared without their labour, muſt now labour and toil, and that tediouſly before they can obtain it. No fruits of the ground, but they muſt be the fruits of their own labour. Experience tells us the young mans dayes are nothing but a time of labour; and for old men, they do <hi>hoc morbo laborare,</hi> they labour of this diſeaſe that they cannot work.
+<note place="margin">Pſal. 104.23. Pſal. 90.10.</note> Man goeth forth unto his work, and to his labour untill the evening; yet is their ſtrength but labour and ſorrow. And he who
+<pb n="11" facs="tcp:118200:9"/>was wiſe enough to judge of theſe things, (The Scri<g ref="char:EOLhyphen"/>pture ſtiles him the wiſedom of the Father) he layes this down for an infallible truth;
+<note place="margin">Eccl. 1.</note> All things are full of labour. And again in the fourth Chapter of the ſame book of the Preacher; he, who was the trueſt and moſt powerfully pathetical preacher of God, preaches this Doctrine, or definite propoſition unto you: That there is no end of the ſame. And as for his Soul, <hi>Divinioris ſpiritus afflatus,</hi> the breath of that Divine ſpirit,
+<note place="margin">P. <hi>Cons.</hi>
+               </note> of that pureſt act and being of God himſelf; now behold by reaſon of its ſin, how impure it is become, <hi>peccatorum ſterquilinium,</hi>
+               <note place="margin">Burton.</note> Nothing elſe but a meer dunghill of beaſtly uncleanneſs, in a naſtie caſe of vile and baſe ſer<g ref="char:EOLhyphen"/>vitude. Behold now thoſe faculties of the ſame, before time the favourites of God the King of Kings, thus miſerably by reaſon of their own defaults caſt out of favour: of Lords and Maſters become mean vaſſals and ſervants. I remember what the ſtory ſayes of the Lord <hi>Cromwell,</hi> and <hi>Frisgobald</hi> of <hi>France,</hi> the one the Maſter, the other the ſervant. But in proceſs of time, the caſe was plainly altered according to the Lawyers: The Maſter was degraded, the ſervant exalted: The Ma<g ref="char:EOLhyphen"/>ſter a beggar, the ſervant rich &amp; highly promoted, (I do not mean to touch the Mountains leaſt they ſmoak) &amp; dominering over the Maſter. Thus it is with the affe<g ref="char:EOLhyphen"/>ctions of poor diſtreſſed man. This little World by reaſon of the <hi>vertigo</hi> in the brain, is meerly turned up<g ref="char:EOLhyphen"/>ſide down: Thoſe higher powers of the Soul are made ſervants to the inferiour, and lower affections of the ſame. The underſtanding and will, which were in the Soul <hi>tanquam Rex &amp; Regina beati in ſolio,</hi> as <hi>King</hi> and
+<pb n="12" facs="tcp:118200:10"/>
+               <hi>Queen</hi> highly be-efied in their Throne, now captivated and enſlaved to the meer outward ſenſes, which are onely as ſo many Porters to the Court-Gate, to let in and out gueſts (for every object is a gueſt entertained by the Soul) I ſay, which ſerve to let them in or out as they are liked, or diſliked of by the royalty and go<g ref="char:EOLhyphen"/>vernment of the underſtanding and the will. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. <hi>Aristotle</hi> heretofore called the minde or underſtanding the eye of the Soul, which could ſee and foreſee to all kinde of danger by way of prevention that might happen unto the ſame. But now this eye is darkened with Ignorance and Superſtition: And if thine eye be evil,
+<note place="margin">Math. 6.23.</note> how great is that darkneſs? <hi>i.e.</hi> al<g ref="char:EOLhyphen"/>together darkneſs: the queſtion doth ſeem to imply no leſs: For the cauſe being removed, the effect preſently ceaſes, according to the Logician: And this was the plot of ſin, or rather the Devils by ſin, Firſt to bring the King, the underſtanding, into bondage, that then the inferiour parts of the ſubjects for very fear, (if nothing elſe) might not reſiſt him. It is with the minde in this caſe as it was with <hi>Sampſon</hi> amongſt his enemies; he was not abſolutely captivated unto the <hi>Philistines</hi> untill they had put out his eyes, and deprived him of ſight. So it is with the Soul of man, if the underſtanding, the eye of it, is not blinded, ſo long it is not Satans ſlave, nor ſins ſervant. But if this eye once be blinded, it works in this ſinfull World, like the horſe that is hood<g ref="char:EOLhyphen"/>wink't in the Mill;
+<note place="margin">Ariſt.</note> not ſo much as ſeeing, at leaſt not ſeeing ſo far as to underſtand what it doth. It was the axiome of the Philoſophers, and a true one <hi>ſecundum apparentiam. Voluntas ſequitur dictamen intellectus,</hi> The
+<pb n="13" facs="tcp:118200:10"/>will follows the dictate of the underſtanding. But ſure this ſeems to be quite contrary in our preſent cauſe of Divinity: Not the underſtanding the will, but the lower affections draw the will; and the will in ſinning ſeems to force the underſtanding: or elſe why die men in theſe bright ſun-ſhine times of the Goſpel? when they ſee and underſtand too, that they are againſt the word of God, yet they will commit ſo various and hainous ſins. And I can give no preſent reaſon for it, but this, That they are <hi>tanquam noctuae coram ſole;</hi> unleſs they are as Owles, which become blinde before the Sun, that en<g ref="char:EOLhyphen"/>lightens all other, creatures, but darkens onely thoſe. This Sun of righteouſneſs in <hi>Malachi</hi> his Evangelical Prophecie enlightens many other poor Souls,
+<note place="margin">Mal. 4.</note> when as theſe (miſerable it is to ſee) become ſtart blinde. It is with our underſtanding and will, as with a Juſtice of Peace and his Clerk. The ſilly and indiſcreet Juſtice not able to judge ſufficiently of matters himſelf, is faign to be guided and ruled by his Clerk: And our underſtanding by reaſon of ſin, blinded with ignorance, is now content to be overſwayed by the will, which in<g ref="char:EOLhyphen"/>deed ſhould be onely his Clerk to follow his dictate, precept, and Commandment. And thus far you ſee mans underſtanding appear plainly to be a ſervant, if not a priſoner, yea, worſe then that, a very ſlave. Nei<g ref="char:EOLhyphen"/>ther is the will free: This as a comate with the former in ill husbandry muſt taſte of the ſame ſauce: They both have ſin for their maſter, like to thoſe beaſts they draw in the ſame yoake. It is there ſaid,
+<note place="margin">Sam. 1.6.12.</note> when the Kine were yoaked together under the Ark of the Lord, they went along the high-way &amp; lowed as they went, ſo theſe
+<pb n="14" facs="tcp:118200:11"/>two, our will and underſtanding draw (as theſe Kine in the ſame yoake, under the Ark as it were, where was the rod of <hi>Aaron</hi> and that budding too for correction, as well as the two Tables of the Law for inſtructi<g ref="char:EOLhyphen"/>on heretofore) under the ſame burden of ſin. And I know no reaſon but they ſhould with theſe Kine low and grieve for the ſame, and cry out in this Aegyptian darkneſs, as thoſe Iſraelites in old Aegypt, our burdens are to heavy for us: and yet at the ſame time ſay they want ſtraw, <hi>i. e.</hi> ſmall ſins to play withall. For your very will, that <hi>liberum arbitrium,</hi> that freeſt part of man is now become ſervile; Imagination ſo far over<g ref="char:EOLhyphen"/>rules the will, that it doth not onely make you to of<g ref="char:EOLhyphen"/>fend man by iniquity, but ſin againſt God by impiety. To this purpoſe are thoſe words of the Apoſtle.
+<note place="margin">Coll. 2.23.</note> Theſe things indeed have a ſhew of wiſedom in will-worſhip, &amp;c.
+<note place="margin">Ovid.</note> 
+               <hi>Sic volo, ſic jubeo,</hi> was the Poets deſcription of the wills imperial government: But alas now the meer ima<g ref="char:EOLhyphen"/>ginative faculty of the Soul, the fancie of man, ſeems to have this ſupremacy. It is not, what I will, that I fancie: But theſe are <hi>termini convertibiles,</hi> (as the Lo<g ref="char:EOLhyphen"/>gician ſpeaks) The propoſition is convertible, and thus it is true: What we do but imagine, that we will. The leaſt titillation, or tickling of the fancie, now in this ſtate of corruption, in a manner forces the will to the willing of the object, let it be never ſo bad. The adulterous man fancies his laſcivious miſtreſs, and he makes preſently to her. The drunkard fancies his pot<g ref="char:EOLhyphen"/>companions, and then he can no longer be from them, <hi>&amp;c.</hi> The fancie accounts them to be ſweet ſins, and therefore the will muſt to the acting of them. But alas,
+<pb n="15" facs="tcp:118200:11"/>In <hi>vino venenum.</hi> In the ſweeteſt Wines lies that poi<g ref="char:EOLhyphen"/>ſonous ſin of drunkenneſs. <hi>Latet anguis in herbâ,</hi> on their green and pleaſant bed lies that riggeling, inſi<g ref="char:EOLhyphen"/>nuating, yea, ſerpent-like ſin of adultery. Yet for all this, the Will wills them, they are ſweet, and therefore ſhe muſt have them: And in all this ſeems to be but the baſer, the more vile a ſervant and ſlave. And for all the underſtanding pronounces it to be againſt rea<g ref="char:EOLhyphen"/>ſon, yet like an ill-affected patient, ſhe is ſtill inclining moſt to that which doth her moſt hurt: As a ſilly ſul<g ref="char:EOLhyphen"/>len priſoner, though ſhown the way to be free, yet ſtill will ſtay in priſon, and therefore the more a vaſſal, the more a ſervant. And thus you ſee the will and the underſtanding having their Necks in the ſame chain of miſery.</p>
+            <p>There is a third, (if that be any comfort to them) the fancie and imagination have the ſame fetters about them, for they ſeem to be ſubject to the meer outward ſenſes, eyes, ears, <hi>&amp;c.</hi> which are onely as ſo many win<g ref="char:EOLhyphen"/>dowes to let in ſinfull objects into the palace of the Soul, to rob her of her proper liberty; to convey enemies into her, (as <hi>Tarpeia</hi> the <hi>Sabines</hi> into the ca<g ref="char:EOLhyphen"/>pitol at <hi>Rome</hi>) to captivate and enthral her. In a word. All the affections that belong unto our Souls as joy, grief, fear, <hi>&amp;c.</hi> are no better then ſo many ſervants and ſlaves to as many ſins and vices. <hi>Alius libidini ſer<g ref="char:EOLhyphen"/>vit, alius ambitioni, omnes ſpei, omnes timori,</hi> &amp;c.
+<note place="margin">Macro<g ref="char:EOLhyphen"/>bius.</note> as <hi>Evangelus</hi> well diſcourſes, whence the Poet ſtiles them no leſs then ſervants. <hi>Qui metuis, qui parva cupis, qui duceris ira: ſervitii patiere jugum,</hi> &amp;c. Not to ſpeak of the Countrey-mans life; for that is nothing but a
+<pb n="16" facs="tcp:118200:12"/>meer epitome of ſlavery, I mean for outward ſervice, (not inward contention.) Lovers are ſlaves to their Mi<g ref="char:EOLhyphen"/>ſtreſſes, Rich men to their Gold, Courtiers generally to luſt and ambition: and all ſlaves to our affections. The one with <hi>Alexander</hi> is a ſlave to his fear; the other with <hi>Caeſar</hi> to pride; another with <hi>Veſpaſian</hi> to his mo<g ref="char:EOLhyphen"/>ny, and the laſt with <hi>Heliog abalus</hi> to his gut, or belly. All ſervants of ſin: <hi>Omne ſub regno graviore regnum.</hi> Even Princes themſelves are under another: And it were to be wiſhed that that ſubjection were not under the Tyranny of ſin and Satan. Court ſins being com<g ref="char:EOLhyphen"/>monly now ſet forth (which are flattery, diſſimulation, <hi>&amp;c.</hi>) as books <hi>cum privilegio,</hi> committed with a Li<g ref="char:EOLhyphen"/>cence, becauſe they ſuppoſe none are able to control them. But let them know even Nobles may be bound with lincks of iron, as well as <hi>Manaſſes</hi> was in chains. No: This is no priviledge in the Court of heaven, God commands his Prophets to tell <hi>Iſrael</hi> of her ſins, and <hi>Judah</hi> of her tranſgreſſions:
+<note place="margin">Jer. 17.1. <hi>Exp.</hi>
+               </note> yea, hear more. The ſin of <hi>Judah</hi> is written with a Pen of Iron, (which is hard to enter, but being once entered is dureable) and with a point of a Diamond, our ſins being as glaſs very perſpicuous, and they muſt be cut aſunder, as <hi>Samuel</hi> cut King <hi>Agag</hi> in pieces, though in ſumptuous apparrel. And therefore ſince they had ſinned and given them<g ref="char:EOLhyphen"/>ſelves to it,
+<note place="margin">Pemb.</note> God gives them alſo up to it <hi>(obdurando cor, &amp; detrahendo gratiam)</hi> he puniſhes them with the ſame ſlavery. <label type="milestone">
+                  <seg type="milestoneunit">Verſ. </seg>3</label> Therefore (ſayes God) will I give thy high places for ſin, <hi>i. e.</hi> the moſt ſumptuous Tem<g ref="char:EOLhyphen"/>ples and faireſt Churches, is it not ſo? O that I in my particular had not reaſon to mourn in ſable for my
+<pb n="17" facs="tcp:118200:12"/>Bedeminſter, now as yet lying in its own aſhes and ruinous heaps of indigeſted ſtone. God ſend us living Temples, and that alſo re-aedification. And this is all the difference between the Courtiers and the poor mans miſerie: The one is in Iron chains, the other in golden fetters, and is it not all one to be bound in Irons and Gold? Both are in bondage, and if there be any difference at all, it is that of S. <hi>Auſtins:</hi> There's, as Gold, are <hi>ſplendidiora peccata:</hi> ther's more illu<g ref="char:EOLhyphen"/>ſtrious and notable ſins; howſoever they are ſins, and are as ſo many clogs unto the Soul. And this, which is worſe, the opener the ſin, the cloſer priſoner he is, who is captivated unto it. <hi>O miſerum principem, ideòque mi<g ref="char:EOLhyphen"/>ſeriorem, quod miſeriae ſenſum perdidiſti,</hi> cries that tra<g ref="char:EOLhyphen"/>gick Poet of pious <hi>Herminigildus.</hi> I am ſure, I may more boldly ſay it of theſe impious ſinners: Miſerable they are in themſelves, but more miſerable yet, in that they perceive not themſelves to be miſerable. Ser<g ref="char:EOLhyphen"/>vants they are, but the more in ſlavery, the more ſub<g ref="char:EOLhyphen"/>ject unto ſin, in that they account themſelves not to be ſo. And that (with which I will conclude this poſition of ours, concerning mans ſervice unto ſin) that I ſay, which is ſaid of the Soul in general, may be alſo af<g ref="char:EOLhyphen"/>firmed of every Soul in particular. <hi>Anima eſt in cor<g ref="char:EOLhyphen"/>pore tanquam in carcere,</hi> The Soul is in the body as in a priſon, where every outward ſenſe almoſt is as ſo many Jaylors, or Keepers domineering over her. And from this none are exempt. Every one by ſin is made of a ſervile condition. In many things we offend all.
+<note place="margin">James 3.2. Rom. 5.12.</note> And all men have ſinned; ſayes S. <hi>Paul.</hi> And there<g ref="char:EOLhyphen"/>fore all muſt ſuffer. All by reaſon of this are in bond<g ref="char:EOLhyphen"/>age
+<pb n="18" facs="tcp:118200:13"/>and ſervice:
+<note place="margin">Plato.</note> And therefore that Divine Naturaliſt calls it <hi>as ſiduam ſervitutem, extremam &amp; meluct abilem,</hi> A continual and almoſt inevitable ſlavery to be ſo ca<g ref="char:EOLhyphen"/>ptivated to vices. And who is free? That is <hi>nemo,</hi> no not ſo much as one is free; all ſervants captivated by ſin; and that to theſe three maſters.</p>
+            <p>To the Devil, the World, and the Fleſh, <hi>i. e.</hi> To the Devils temptations, to the Worlds allurements, and to the Fleſhes corruption. Firſt to Satan, as the chief Tyrant: Then to the other two, as to his <hi>Baſſa's</hi> Viceroys, or ſubſtitutes.</p>
+            <p>To the Divel firſt,
+<note place="margin">1 Tim. 5.25.</note> ſo S. <hi>Paul</hi> complains. Some are already turned aſide to Satan: and then ſervants to the Prince of this World; yea, the World it ſelf, ſo the ſame Apoſtle ſpeaks.
+<note place="margin">Eph. 2.2.</note> Ye walked according to the courſe (ſpeaking of them when they were reprobate ſilver, and could not otherwiſe paſs) according to the Prince of the power of the Aire.</p>
+            <p>And in the third and laſt place, you are ſlaves to your own luſt and fleſh, <label type="milestone">
+                  <seg type="milestoneunit">Verſ. </seg>3</label> ſo S. <hi>Paul</hi> follows it: We all had our converfations, <hi>i. e.</hi> (I as long as in ſin) in the luſts of the fleſh, fulfilling the deſires, or as the Greek word <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> ſignifies, the Wills of the fleſh, <hi>&amp;c.</hi> And now me thinks I am in a large field, in which I might ex<g ref="char:EOLhyphen"/>patiate my ſelf. In a large Ocean, in which I might rove far: But I think by this time it is better, <hi>vela con<g ref="char:EOLhyphen"/>trahere</hi> to let down my fails. The latter part of my Text calls me neerer home; theſe things it may be will be more fitly handled and enlarged in another portion of Scripture, thus much therefore ſhall ſerve to have ſpoken of the firſt Doctrine, there ſlavery unto fin.
+<pb n="19" facs="tcp:118200:13"/>A word, or two of the uſes, and ſo likewiſe I ſhall ſpeak ſomething to the ſecond, <hi>i. e.</hi> The wages in particular death.</p>
+            <p n="1">1. <hi>Uſe.</hi> Is for the deploration of mans miſerable condition in fin; and in that an exhortation to him for to leave it, man by nature is made upward, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>.</p>
+            <p>
+               <hi>Os homini ſublime dedit caelumque videre,</hi>
+               <note place="margin">Ovid.</note> ſayes the Poet. And as his nature is, ſo by often uſe and practice is his inclination and diſpoſition, in actions natural he claims the priority: In actions political and civil, thoſe which reſpect him (<hi>quâ hominem,</hi> as he is meerly man) he deſires the praecedence and the prae-eminence, Supe<g ref="char:EOLhyphen"/>riority, or ſupremacy is the mark he ſtill aimes and ſhoots at. He that is loweſt deſires to be higher; and he that is high, labours to be higheſt: Onely in actions ſpirituall, and thoſe which belong unto the Soul, man is of a baſe dejected nature: a ſlave and ſervant he is to the vileſt ſin. You know what the Centurian ſaid to Chriſt:
+<note place="margin">Luke 7.8.</note> I am a man ſet under authority (not uſurp<g ref="char:EOLhyphen"/>ing it, obſerve the order) having under me Souldiers, and I ſay unto one, go, and he goeth, and to another come, and he cometh, and to my ſervant, do this, and he doth it; and hath not ſin the ſame tyrannizing power over men? Doth not that ſay to this man? go to the acting of this ſin of murder and adultery, (as it did <hi>Da<g ref="char:EOLhyphen"/>vid,</hi>) and he goeth: And to another, Come to theſe pot-companions; (who as the Prophet ſaith,
+<note place="margin">Iſai 5.11.</note> riſe up early in the morning, that they may drink ſtrong drink, that continue untill night till Wine enflame them. Ho, drink with thoſe, and be merry.) Come ſaith ſin, and how ſuddenly do they come, (even as the Lord is ſaid
+<pb n="20" facs="tcp:118200:14"/>to hear before they ask) almoſt before the baſe tempta<g ref="char:EOLhyphen"/>tion of Satan to it is ſetled within them, and ſo like ſo many <hi>Sybarites,</hi> or <hi>Epicures,</hi> do wallow in drunken<g ref="char:EOLhyphen"/>neſs and uncleanneſs. Not as Chriſtians living ſoberly, as S.
+<note place="margin">2 Tit. 12.</note> 
+               <hi>Paul</hi> exhorts them. And doth not the Devil with the Centurion ſay to a third? Do this art of cheating or defrauding thy Neighbour, do this any ſin, and doth he not do it? Yea, is he not rather even preventing the Devils temptation, by the willingneſs of his cor<g ref="char:EOLhyphen"/>rupted nature, in the acting of any ſin?</p>
+            <p>You ſee thus your miſerable and ſervile condition in ſin; and will ye yet follow it? Me thinks you ſhould be aſhamed, thus to turn your backs upon God your King, and to ſide with the Devil, a malignant uſurper. Thy ſtate while thou art thus is worſe then any <hi>Turkiſh</hi> ſlave, which the whole World almoſt now ſo much abhorres. The worſt of you here, I know, if he could avoid it, would not be a ſervant, no not to the kindeſt and moſt royal Maſter, if he could be a maſter himſelf, and have ſervants that might obey him: And will you be Superiours and Governours in worldly affairs, and yet ſuffer your ſelves to be underlings in ſpiritual things? I tell you the ſinfull man is no better then a ſervant, a ſlave unto his ſins: And if you credit not me, yet believe the Apoſtle,
+<note place="margin">Rom. 6.</note> who often tells you the ſame: It was the ſpeech of the ancient Senators of old <hi>Rome</hi> unto the common people upon the removing of the <hi>Tribuni,</hi> a certain kinde of treble Governours by Tribes, <hi>Quid expectatis, num deflagrare omnia paſſuri estis? Non pudet lictorum majorem prope numerum in foro conſpici, quam togatorum aliorumque?</hi> Now what do you ex<g ref="char:EOLhyphen"/>expect
+<pb n="21" facs="tcp:118200:14"/>any thing but an inflammation, or deflagration of all? Are you not aſhamed to ſuffer more <hi>Bumbalies</hi> and <hi>Sarjants</hi> to appear amongſt you, then free men, <hi>&amp;c.</hi> May not I, in this caſe ſay the ſame to you? Why what mean you by this rebelling againſt God? By your continuance in ſin? Surely, you can expect nothing elſe but utter ruine and deſtruction. Are you not aſhamed to harbour ſo many corruptions within you, which are as ſo many <hi>Bayliffs</hi> from the <hi>Devil,</hi> to arreſt you at his ſuit? and caſt you hereafter into the dungeon of dark<g ref="char:EOLhyphen"/>neſs for ever? You ſuffer ſcarce one free man,
+<note place="margin">Gal. 5.1.</note> one free grace of God, and Chriſt within you to guide you and direct you. Be not intangled with the yoak of bond<g ref="char:EOLhyphen"/>age: And if this will not ſerve you, I will perſwade you a little further, yet by the ſame arguments the <hi>Romans</hi> did their Souldiers againſt their enemies, <hi>Pugna<g ref="char:EOLhyphen"/>tis pro aris, pro focis, pro libertate, pro liberis,</hi> As long as you willingly go on in ſin, you have no good by the Church; you looſe your liberty, you are ſervants to ſin. Draw therefore thy ſelf out of theſe gins and fet<g ref="char:EOLhyphen"/>ters of Satan: Take up arms againſt that ſin, which hath ſo long captivated thee, thy Children, thy Fami<g ref="char:EOLhyphen"/>ly: and now defie it. In that thou haſt obeyed ſin, thou haſt not onely enſlaved thy ſelf, but others. It may be thy Wife, thy Children, thy Family (with <hi>Joſeph</hi>) have learned of thee to ſwear by the life of <hi>Pharaoh</hi> as well as thou. In a word: Art thou addicted to any kinde of ſin? why man, thy very company may make them to do the ſame, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, Evil company corrupts good manners: as ſayes S. <hi>Paul.</hi>
+               <note place="margin">1 Cor. 15.33.</note> If therefore thou defire to have any part in Chriſt and his
+<pb n="22" facs="tcp:118200:15"/>Church; if thou wouldeſt have thy Children, thy Fa<g ref="char:EOLhyphen"/>mily do well; if thou wouldeſt (laſtly) thy ſelf not die ever, but live eternally, leave ſin: leaſt that leave thee in the lurch; And make thy ſelf a ſervant of righteouſneſs, binde thy ſelf to it, not to the grave like ſtinking menſtruous rags of ſin, for otherwiſe thy wages is ſet here down <hi>determinative,</hi> ſay the Schools, <hi>i. e.</hi> death, which is indeed <hi>ultima linea rerum,</hi> the determi<g ref="char:EOLhyphen"/>nation and period of all our natural dayes, whereas the reward of others is eternall life, the duration (if I may ſo call it, and why not?) of a day without a night. Whence S.
+<note place="margin">Rev. 21.22, 23. <hi>Exp. Pſ.</hi> 84.6.</note> 
+               <hi>John</hi> moſt Divinely ſets forth his heavenly Temple. The path-way to it is the ſtreet of the Citie of pure Gold (not the vally of <hi>Baca</hi>) as it were tranſ<g ref="char:EOLhyphen"/>parent glaſs, <hi>Ecce puritatem &amp; claritatem:</hi> And I ſaw no Temple therein: <hi>Hic Ecce Theologum</hi> the word of God <hi>ſine Templo in vitâ aeternâ,</hi> and the vail of the Temple here rent at his death. And I would I might not juſtly take up the ſame complaint. I have a people or Congregation: But my Temple as <hi>Jeruſalem</hi> was the Wall of it burn't down.
+<note place="margin">Neh. 1.3.</note> I wiſh I might not ſay by a perfidious brother, and the Gates thereof were burn't with fire,
+<note place="margin">Exp.</note> for the Lord (God Almighty, and the Lamb are the Temple, he that was on earth) the ſacrifice: <hi>agnus ille mactatus.</hi> And the Citie had no need of the Sun, neither of the Moon to ſhine in it; for the glorie of God did lighten it; and the Lamb is the light there<g ref="char:EOLhyphen"/>of. In the pacifical Prophet we read of the Lion and the Lamb lying down together; but here he, who was the Lion of the Tribe of <hi>Judah,</hi> now the Lamb of God, fits alone.
+<note place="margin">Col. 3.1.</note> 
+               <hi>Ecce, Solſtitium perpetuim ſolis. Juſcitiae<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi>
+               <pb n="23" facs="tcp:118200:15"/>Chriſt the Sun of righteouſneſs ſits,
+<note place="margin">Exp.</note> in <hi>praeſenti implicat aeternitatem,</hi> at the right hand of God:
+<note place="margin">Mal. 4.3.</note> Never again to deſcend with healing in his wings, till that general day of doom: When he ſhall change our vile body,
+<note place="margin">Phil 3.21. <hi>Exp.</hi>
+               </note> that it may be faſhioned like unto his glorious body, <hi>ſimili<g ref="char:EOLhyphen"/>tudinem non paritatem aut aequalitatem,</hi> according to the working, (<hi>no more pasſion,</hi>
+               <note place="margin">Exp.</note> but action onely) whereby he is able to ſubdue all things to himſelf. Let not ſin then, or therefore reign in your mortal body,
+<note place="margin">Rom. 6.12. <hi>Exp.</hi>
+               </note> as the Apoſtle ſpeaks (leaſt it as another <hi>Haman</hi> exalted, ſwel<g ref="char:EOLhyphen"/>ling with pride even againſt <hi>Mordecai's</hi> humility) that ye ſhould obey it in the luſts thereof; neither yield your Members as inſtruments of unrighteouſneſs unto ſin (the former againſt thy Neighbour, the latter againſt thy God,) but yield your ſelves unto God, as thoſe that are alive from the dead, and your Members as inſtru<g ref="char:EOLhyphen"/>ments of righteouſneſs unto God.</p>
+            <p n="2">2. <hi>Uſe.</hi> Is none but that of S. <hi>Hierom.</hi> That men would not aſpire too high in this ſinfull World, but be content with that lot which is caſt into the lap. It may be it is not ſo good for them to be high: the power they have being abuſed may make them the more ſervants unto ſin. As it did <hi>Haman</hi> in his cruel deſign againſt Gods people the <hi>Jews,</hi>
+               <note place="margin">Eſth. 7.4. <hi>Exp.</hi>
+               </note> if God had not appointed <hi>Eſther</hi> to prevent it. Who boldly delivers her meſſage, as to God, <hi>Ecce virilitatem</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>ſexus imo foeminini.</hi> For we are ſold, I, and my people to be deſtroyed,
+<note place="margin">Exp.</note> (I whom thou haſt choſen as an inſtrument to increaſe and en<g ref="char:EOLhyphen"/>liven thy own) to be ſlain, <hi>(ſecundum corpus)</hi> and to periſh as our enemies think, <hi>ſecundum animam.</hi> This I take to be the meaning of the holy Ghoſt here.) But if
+<pb n="24" facs="tcp:118200:16"/>we had been ſold for bond-men and bond-women I had held my tongue (an admirable Rhetorical inſinua<g ref="char:EOLhyphen"/>tion) although the enemy could not countervail the Kings dammage. If men then will be no more in ſlave<g ref="char:EOLhyphen"/>ry then they are, let them content themſelves with thoſe lower places which are freeſt from the commiſ<g ref="char:EOLhyphen"/>ſion of ſins. (I ſpeak not this to bite, or back-bite, but to caution any authority) <hi>Occaſio facit furem:</hi> The higher the place, the more occaſion is offered unto ſin; and our corrupt nature (as Children about this time on ſweet and gilded Marchpans) is apt enough to lay hold of it. Ile end this uſe with the words of the fore<g ref="char:EOLhyphen"/>named Father: do not repine in thy low, or ſo ſervile citate, for <hi>Satis est potens</hi> (ſayes he) <hi>qui ſervire non cogitur:</hi> For thus thou art high and powerfull enough, in that thou art not ſo much in ſervice to, or under the dominion of ſin. Thus much for the uſes of the firſt doctrine. I haſten now to the ſecond part of the Text, which is the Wages of ſin particularly ſpecified in this word death. The Wages of ſin is death.</p>
+            <p>And here, before we proceed any further, I pray note the earneſtneſs of the Apoſtle in the following of this argument, he was very loath to leave it, being ſo en<g ref="char:EOLhyphen"/>forceable to them. Why was it not enough once to tell them ſo? <label type="milestone">
+                  <seg type="milestoneunit">Verſ. </seg>21</label> as he doth in the end of the 21. <hi>verſe.</hi> The end of theſe things is death. No, <hi>non frustra aliis verbis idem iterum repetit, ſed terrore duplicato magis de<g ref="char:EOLhyphen"/>teſtabile reddere peccatum voluit.</hi>
+               <note place="margin">Jo. Calv.</note> It is M<hi rend="sup">r</hi>. <hi>Calvins</hi> note upon the Text. If the firſt reaſon would not ſerve; he repeats it again in other words, that by often incul<g ref="char:EOLhyphen"/>cating, he might make the ſin the more odious to
+<pb n="25" facs="tcp:118200:16"/>them: He ſpeaks it the more urgently, that, as Chil<g ref="char:EOLhyphen"/>dren with their leſſon, if they will not learn at firſt, by often reciting it, he would even beat it into their heads. So then the ſecond Doctrine we may gather from the words, without any wreſting of them, are no other but the words themſelves.</p>
+            <p>
+               <hi>Doct.</hi> The Wages of ſin is death: and that three wayes. All which before I inſiſt on, receive a modern recapitulation of my foregoing diſcourſe.
+<note place="margin">D. <hi>F<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>a<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>ly.</hi>
+               </note> Sin eclipſeth the light of the underſtanding, diſordereth the deſires of the Will, weakneth the faculties of the Soul; di<g ref="char:EOLhyphen"/>ſtempereth the Organs of our body; diſturbeth the peace of our conſcience, choaketh the motions of the ſpirit in us: killeth the fruits of grace, enthralleth the Soul of the body; and the body and Soul to Satan. Laſtly it depriveth us of the comfortable fruition of all temporal (and if continued in) of the fruition &amp; poſ<g ref="char:EOLhyphen"/>ſeſſion of all eternal bleſſings.
+<note place="margin">Firſt.</note> The firſt is a death un<g ref="char:EOLhyphen"/>to grace, which ſin cauſes in regard of the abſence of grace altogether, or in reſpect of the ſuſperſion of the acts of grace, for ſome certain time, which is plainly proved in that Epiſtle to the Epheſians, in two places: where the Apoſtle eſpecially oppoſeth living in grace,
+<note place="margin">Eph. 2. <hi>Zanch.</hi>
+               </note> or by it; and death in ſin, <hi>i.e.</hi> death to grace, ſo it is in the firſt verſe. And you hath he quick'ned, who were dead in treſpaſſes and ſins.
+<note place="margin">Exp. loci.</note> It was time for S. <hi>Paul</hi> to praefix a conjunction copulative, ſince ſin had made ſuch a ſeparation: Quick'ned, is raiſed from death, or reſtores unto life <hi>ex nihilo</hi> by grace: For there the Apoſtle compares theſe two ſtates of us, what we are by nature and ſin, and what we are by grace.
+<pb n="26" facs="tcp:118200:17"/>And in the fifth verſe 't is more plain yet: Even when we were dead in ſins, hath he quick'ned us together with Chriſt.
+<note place="margin">Aquinas.</note> By grace are you ſaved, <hi>gratia gratis datâ;</hi> Theſe laſt words very well explain the former to our preſent purpoſe. And this is the firſt death, which is the Wages of ſin; and is truely called a ſpiri<g ref="char:EOLhyphen"/>tual death.</p>
+            <p>The ſecond follows upon it, and that is a natural death,
+<note place="margin">Magnus</note> or Temporal, which is <hi>diſſolutio corporis &amp; ani<g ref="char:EOLhyphen"/>mae,</hi> the diſſolution of the body and Soul. Therefore ſayes the Apoſtle:
+<note place="margin">
+                  <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 5. <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Verſ. 11.</note> As ſin hath reigned unto death: And before that you finde this deaths head more plain<g ref="char:EOLhyphen"/>ly preſented in an ugly ſhape, as it were upon a ſtage acting a part,
+<note place="margin">
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. R.</note> or at leaſt moving above-board. Where<g ref="char:EOLhyphen"/>fore as by one man ſin entered into the World, and ſin by death; and ſo death did paſs upon all men, for that all have ſinned: The words at leaſt in ſenſe and mean<g ref="char:EOLhyphen"/>ing of the forenamed Doctrine. This is the ſecond; Though S. <hi>John</hi> in the Revelation calls, my third in order, the ſecond death. And ſo it is indeed in Divi<g ref="char:EOLhyphen"/>nity. He is the Divine, But I have made bold as a ſpiritual Phyſician in theſe diſtempered times, to pre<g ref="char:EOLhyphen"/>ſent you with a <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>: And to give you a mixt Doſis, or taſte of the naturall, and the ſpiritual.</p>
+            <p>The third is that which is the worſt, a death unto life eternal,
+<note place="margin">
+                  <hi>Bolton.</hi> Iſai 66.24.</note> and yet a death that never dies: Their Worm ſhall never die, their Fire ſhall never be quenched. The former death is but as the prick of a lancet, or flea-biting unto this;
+<note place="margin">1 Cor. 15.</note> for that is but for a time, we ſhall riſe again after that at the laſt day; but this is to all eternity. I, what if I did ſay, determined from all
+<pb n="27" facs="tcp:118200:17"/>eternity? <hi>Conſtitutum eſt omnibus ſemel mori<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,
+<note place="margin">Heb<gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> 2<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>. <hi>Exp.</hi>
+                  </note> i. e.</hi> in this death continually, alwayes dying, and yet never dead, <hi>quae ab ipſo momento dependet aeternitas</hi> (as the Father elegantly) an eternity for ever ſucceeding our ſudden departure. By the former the body is but kill'd, fear not him that kills the body, but by this both body and Soul are utterly deſtroyed.
+<note place="margin">Matth. 10.26.</note> Rather fear him that is able to deſtroy both body and Soul in Hell: Whence S. <hi>Auſtin,
+<note place="margin">
+                     <hi>Lib. de Civit. Dei</hi> 21.</note> Prima mors animam nolentem pellit de corpore; ſecunda mors animam nolentem tenet in cor<g ref="char:EOLhyphen"/>pore;</hi> The firſt death driveth the Soul out of the body, being unwilling to part with it; The ſecond death keepeth the Soul againſt her will in the body. The firſt death is the ſeparation of the Soul from the body. The ſecond is the ſeparation of Soul and body from God: and by how much God is more excellent then the Soul, by ſo much the ſecond death is worſe then the firſt: <hi>Prima mors bonis bona est, malis mala,
+<note place="margin">Auſt<gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> 
+                     <hi>Civit. Dei, Lib.</hi> 13.</note> ſecunda ut nullorum bonorum eſt, ita nulli bona;</hi> The firſt death is good to good men, becauſe it endeth their ſorrows, and begins their joyes: but evil to evil men, becauſe it ends their joyes, and begins their everlaſting weep<g ref="char:EOLhyphen"/>ing and gnaſhing of teeth. The ſecond as it belongeth to none that are good, ſo it is good to none. Both theſe are the due Wages of ſin, and ſhall be paid at the <hi>Audit</hi> day of doom. The ſentence pronounced againſt <hi>Adam, mort<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> morieris,</hi> By the reduplication of the word, ſeems to imply as much as thou ſhalt die again and again, <hi>iterum atque iterum,</hi> the firſt and ſe<g ref="char:EOLhyphen"/>cond death. The firſt is as the earneſt penny, the ſe<g ref="char:EOLhyphen"/>cond as the whole hire, both make up the Wages of
+<pb n="28" facs="tcp:118200:18"/>ſin. The firſt is like the ſplitting of a Ship, and caſting away all the goods and wares; the latter as the burning of both with unquenchable fire. This is the Wages of every ſinner that dies in ſin unrepented off. Such muſt go down even quick into Hell,
+<note place="margin">Pſal. 55 15.</note> ſayes King <hi>David,</hi> and Chriſt ſayes, God ſhall pronounce the ſentence of con<g ref="char:EOLhyphen"/>demnation upon them at the laſt day.
+<note place="margin">Matth. 25.41.</note> Go you curſed into everlaſting fire prepared for the Devil and his An<g ref="char:EOLhyphen"/>gels. Every word is able to break, yea, grind in pieces a heart of Adamant.
+<note place="margin">Loco ſu<g ref="char:EOLhyphen"/>per.</note> I cannot let paſs S. <hi>Auſtin</hi> his ob<g ref="char:EOLhyphen"/>ſervation, <hi>Nemo hic propriè moriens, ſeu in morte dici<g ref="char:EOLhyphen"/>tur; ſed ante mortem, aut poſt mortem:</hi> i.e. <hi>viventes aut mortui ibi, è contrario non erunt homines ante mortem, aut poſt mortem, ſed ſine fine morientes &amp; nunquam pejus erit homini in morte, quam ubi erit mors ipſa ſine morte.</hi> In this life men cannot be ſaid properly to be dying, or in death; but alive, or dead: for whil'ſt the Soul remains in the body we are living; after the ſeparation thereof we are dead: Whereas they that are in Hell cannot be properly ſaid to be dead; becauſe they are moſt ſenſi<g ref="char:EOLhyphen"/>ble of pain: nor to be alive, becauſe they ſuffer the puniſhment of the ſecond death; but continually dying. And never ſhall it be worſe with man in death; then where death it ſelf is without death: where life perpe<g ref="char:EOLhyphen"/>tually liveth according to that of <hi>Iſaiah.</hi> A worm con<g ref="char:EOLhyphen"/>tinually gnawing;
+<note place="margin">
+                  <hi>Lib.</hi> 9. <hi>Mor. cap.</hi> 45.</note> ſo a fire continually burning. S. <hi>Gre<g ref="char:EOLhyphen"/>gory</hi> ſweetly quavers upon this ſad leſſon, or note of death. <hi>Mors ſine morte, finis ſine fine, defectus ſine de<g ref="char:EOLhyphen"/>fectu: quia &amp; mors vivit, &amp; finis incipit, &amp; deficere neſcit defectus.</hi> The death of the damned is a deathleſs death: an endleſs end, and undefiable defect. For their
+<pb n="29" facs="tcp:118200:18"/>death alwayes liveth, and their end beginneth; and their conſumption laſteth, is permanent and eternal. And this death is eſpecially meant in my Text: The corre<g ref="char:EOLhyphen"/>ſpondency of this Member, to that which follows makes it manifeſt; all which ſhall ſuffice alſo for the ſecond Doctrine: For I can't now dilate, or enlarge my ſelf.</p>
+            <p n="1">1. <hi>Uſe.</hi> This in the firſt place confutes that com<g ref="char:EOLhyphen"/>mon errour of the Papiſts concerning venial ſin, where<g ref="char:EOLhyphen"/>as every ſin is mortal. For the Apoſtle ſpeaks here ve<g ref="char:EOLhyphen"/>ry plainly: The Wages of ſin is death, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. And in that he ſaith it of all ſins, it may be ſaid of every ſin, <hi>A quatenus ad omne valet conſequentia,</hi> is an undoubted truth of the Logicians, from, as to all the conſequence is very good: And our Apoſtle ſaith as ſinner, ſo wor<g ref="char:EOLhyphen"/>thy of death.
+<note place="margin">Rom. 5.</note> And therefore every ſin is mortal in it ſelf, and deſerves even eternal death. For I can give no more credit then <hi>Robert Bellarmine</hi> doth to the Po<g ref="char:EOLhyphen"/>piſh Legend; who profeſſedly refutes thoſe of his own ſide, who give credit to the Legend; which relates that by the prayers of S. <hi>Gregory,</hi> the Soul of <hi>Trajan</hi> was delivered out of Hell, (<hi>preces habent efficaciam,</hi> as in <hi>Jacobs</hi> wreſtling with God: but it made him halt ever after.) O no, death ever living,
+<note place="margin">Gen. 32.31.</note> and not dying is their wages, <hi>in preſenti,</hi> continually: Neither is this proceeding of Gods, any wayes unjuſt, to puniſh him with death, I, even eternal: in regard the impenitent ſinner, if he ſhould alwayes live upon the earth; would alwayes hold on his ſinfull courſe, had he ſtill the uſe of his tongue (ſayes a modern) he would ſtill blaſpheme &amp; curſe; had he ſtill the uſe of his eys, he would ſtill look after vanity: had he ſtill the uſe of his feet, he would ſtill
+<pb n="30" facs="tcp:118200:19"/>walk in wicked wayes: had he ſtill the uſe of his hands, he would work all manner of wickedneſs, had he ſtill the free uſe of all the faculties of his Soul and Members of his body,
+<note place="margin">
+                  <hi>Lib. de</hi> 4. <hi>Noviſſ.</hi>
+               </note> he would ſtill make them weapons of un<g ref="char:EOLhyphen"/>righteouſneſs. <hi>Inchinus</hi> the Romiſh poſtiller giveth ſome light to this truth by an inch of Candle, whereby two play at Tables in the night, and are very earneſt at their game; but in the midſt of it the Candle goeth out, and they perforce give over; who (no doubt) if the light had laſted would have played all night. This inch of the Candle is the time allotted to a wicked man; who is reſolved to ſpend it all in pleaſures and paſtimes, &amp; if it would laſt perpetually, he would never leave his play, &amp; therefore ſith he would ſin eternally; though (by reaſon the light of his life goes out) he can<g ref="char:EOLhyphen"/>not, he deſerves eternal puniſhment: Yea, he muſt needs know his Wages, and that is death, &amp; that eternal, with<g ref="char:EOLhyphen"/>out repentance on mans, &amp; infinite mercie on Gods part.</p>
+            <p n="2">2. <hi>Uſe.</hi> Is of exhortation to all to leave of their ſins, and that betimes. Agree with thine adverſary, and that too quickly. And if that will not ſerve, it is a uſe of terrour to you all, for here is that which is <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. The moſt terrible of terribles, whoſe ugly grim face in the Churches body may affright the be<g ref="char:EOLhyphen"/>holder; much more his violent and unexpected pre<g ref="char:EOLhyphen"/>ſence in our trembling bodies, which are (or ought to be) the Temples of the holy Ghoſt.
+<note place="margin">Eunu<g ref="char:EOLhyphen"/>chus.</note> That (as <hi>Terence</hi> of <hi>Phaedria</hi> to <hi>Thais</hi>) paint him never ſo lively, and with old-bald-pated time by him, I ſhall cry out, <hi>Tremo horreoque cùm primum aſpexi hanc.</hi> Death it is I mean, the Wages of ſin. A death to grace, and that is miſe<g ref="char:EOLhyphen"/>rable
+<pb n="31" facs="tcp:118200:19"/>here; A natural, or temporal death, and that (I know) is loathſome to moſt. And the more you are addicted to this ſublunary world, the more grief it breeds within you. Elſe what mean thoſe out-cries, and roarings with thoſe wilde Iriſh at graves, as men and women without hope? <hi>Hone, Hone,</hi> &amp;c. O my dear Father one cries, my ſweet and aged Husband another, and a third, mine onely friend is dead, and to whom ſhall I make my moan with him: <hi>O me miſerum, quis dabit in Lachrymas fontem?</hi> But there is a third death that is more terrible then all, that from which there is no recovery, no releaſe. When you ſhall (without repentance) be bound in chains in Hell; where, (I am ſure) that of the Poets will take no place: <hi>Sola<g ref="char:EOLhyphen"/>men miſeris ſocios habuiſſe doloris,</hi> But here the ſcreech<g ref="char:EOLhyphen"/>ing of your companions ſhall add but greater grief and horrour to your diſtreſſed and diſtracted minde. And do you not yet ſtand amazed and tremble at the hear<g ref="char:EOLhyphen"/>ing of theſe things. Me thinks every one ſhould cry out with himſelf now, as the affrighted Jaylor to <hi>Peter,</hi> what ſhall I do to be ſaved? Or elſe as trembling <hi>Foelix</hi> to S. <hi>Paul.</hi> Too much learning hath made thee mad: go away now, I will hear thee of this matter, <hi>i. e.</hi> (the judgement to come) another time: But alas it is too true. We may now again cry out, as the Prophet once to an obdurate and ſtifnecked Nation. Ho every one that thirſteth, Come unto the waters, <hi>&amp;c.</hi>
+               <note place="margin">Iſa. 55.1.</note> Your poor and dejected (if not ejected) Miniſters may long enough wiſh that their heads may become Fountains of tears; and withall complain no man hath believed our report, and that eſpecially in this matter of death. Our ſubject
+<pb n="32" facs="tcp:118200:20"/>ſubjecting all. Give me leave (as by deaths head pre<g ref="char:EOLhyphen"/>ſented at the beginning of a Feaſt) to affect the Soul by the terrible preſence of the body.</p>
+            <p>And now you may imagine the Sermon is drawing to an end, if not done. O no: It is then onely done, when it is applied, received, underſtood, and practiſed. There is no Phyſick, but if it works, maketh the pa<g ref="char:EOLhyphen"/>tient ſick for the preſent: and for the moſt part the moſt ſmarting plaiſter moſt ſpeedily cures the wound. Theſe obſervations are true in corporal Phyſick, and much more in ſpiritual: becauſe the ſmart of ſin, and trouble of conſcience for it, are as ſo many ſigns of maladies, as the beginning of cures. Some ſay, the fear of the plague brings it: But if we ſpeak of this plague, and other judgements of God for ſin, it is certain that the fear of them (not ſervile but filial) is the beſt preſer<g ref="char:EOLhyphen"/>vative againſt them. He onely may be ſecure of the avoiding of Hell torments, and eſcaping the pangs of eternal death, who feareth them as he ought; and he that fears them not, as another Stoical <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, as in a moſt fearfull caſe.
+<note place="margin">Eccluſ. 41.1.</note> O death how bitter is the remem<g ref="char:EOLhyphen"/>brance of thee! Admirable upon which is that ſtrict D<hi rend="sup">r</hi>. <hi>Lake</hi> his meditation, that reverend <hi>B.</hi> of <hi>Bath;</hi> whom I rather quote by reaſon of the proximity to <hi>Bristol:</hi> which (though it hath ſcorned thoſe old prayers) hath need now of a Lord have mercy upon me, where I have been <hi>verè vir dolorum &amp; afflictionum:</hi> Which made me bring to light firſt theſe dark thoughts of death, being lately (thanks be to God) drawn by a Divine power out of the ſnares of Hell and death. We have no abiding place on earth, none have: But of thoſe
+<pb n="33" facs="tcp:118200:20"/>that would have there are many, here below ſinging an undeſerved <hi>requiem</hi> to the Soul, &amp; ſaying with the fool, Soul take thy reſt. Many there are, O Lord, that though they muſt die, cannot endure to minde death. Nothing more unſavoury to them then that their memorie ſhould be exerciſed with the memory thereof:
+<note place="margin">Eccleſ. 12.1.</note> Where<g ref="char:EOLhyphen"/>as ſayes <hi>Solomon;</hi> Remember thy Creator in the dayes of thy youth: And it was <hi>Moſes</hi> wiſh, O that men would be wiſe &amp; conſider their latter end. Let me a lit<g ref="char:EOLhyphen"/>tle raiſe your thoughts (before I leave you) from do<g ref="char:EOLhyphen"/>ting upon Lachrymae to much, w<hi rend="sup">ch</hi> was the firſt my Ma<g ref="char:EOLhyphen"/>ſter taught me in Muſick. We have look'd long enough upon Hell and death, Let us now look up to our Sa<g ref="char:EOLhyphen"/>viour (it is <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> quaſi <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>) who Triumphed over both: Let the ſight of the one as much raiſe your hope (for without it we may not, we muſt not be) as the other dejecteth us in fear. Now the Sermon being finiſhed, let us eternally ſing his praiſes againſt thoſe mortal enemies of Funeral Elegies, Browniſts I mean, and Anabaptiſts; who will bury their dead, not one<g ref="char:EOLhyphen"/>ly againſt, but without the Apoſtles rule.
+<note place="margin">1 Cor. 14.40.</note> Let all things be done decently and in order. Who hath ſaved us? Even us (that alive yet from everlaſting weepings and mournings in the valley of <hi>Hinnom.</hi> Shall any waters of affliction quench in us the love of him, who for us quenched unquenchable fire? ſhall not the benefit of our delivery from everlaſting death, and burial too in the grave of Oblivion live in our memory? ſhall any thing ſever us from him,
+<note place="margin">Matth. 27.46. Rom. 8.38.</note> who for our ſakes after a ſort was ſevered from his Father? When he cried my God, my God, why haſt thou forſaken me? ſhall tribulation,
+<pb n="34" facs="tcp:118200:21"/>or anguiſh, or perſecution, or famine, or the ſword? No, I am ſure, I may aſcend higher, and deſcend lower too with the Apoſtle (whoſe Antiperiſtaſis makes his Rhetorick more admirable and winning.) Neither life, nor death, nor principalities, nor powers, nor things preſent, nor things to come, nor height, nor depth, nor any other creature ſhall be able to ſeparate us from the love of God, which is in Chriſt Jeſus. I will ſhut up all with that prayer of our unparallel'd Lake, (in whom was the depth of all Divinity, as in an Ocean rather than a Lake) ſeeing the whole world is <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, a ſweet ſower. And this is the evil of worldly weal, &amp; the eaſe our cor<g ref="char:EOLhyphen"/>rupt nature takes in it, makes us more to diſtaſte the joys of Heaven. Mix, I beſeech thee, O Lord, my peace with war: Being of S. <hi>Pauls</hi> temper and conſtitution, finding a Law in my Members rebelling againſt the Law of my minde.
+<note place="margin">Rom. 7.</note> Let me never be a ſecure owner of my worldly goods; (neither well can I, ſince thou in thy goodneſs haſt taken them, wife, and all from me.) Yea, Lord, let them appear as they are, Tranſitory &amp; uncer<g ref="char:EOLhyphen"/>tain, that I may not repute them to be my goods. Let Theeves ſtrip me, let croſſes diſtreſs me, (as I thank thee, I am <hi>Chriſtianus, quia Crucianus</hi>) though I loſe, yet I ſhall gain, and proſper beſt when I do not proſper. Death that muſt come ſhall never be unwelcom, yea, the remembrance of it ſhall be my greateſt comfort; it ſhall never finde me but willing to leave what I never did in<g ref="char:EOLhyphen"/>joy, or joy in. And happy ſhall I account that hour, that ſhall take me out of the World; when it takes (as it hath done, I thank God, for five moneths together) the World from me, becauſe we never were well at one,
+<pb n="35" facs="tcp:118200:21"/>Yea, I had almoſt ſaid ſhe which once lay in my boſom, and therefore ſhall not fear to be at odds. The World is crucified to me, and I unto the World. Death ſhall take no pains in parting our aſſociation: which ſhall finde us before hand parted in affection. Let death be bitter unto others, to me it ſhall be ſweet, when it pleaſeth God to ſend it.) And I will (God-willing and aſſiſting) prepare my ſelf by a timely thinking of it, <hi>Prae<g ref="char:EOLhyphen"/>monitus praemunitus,</hi> ſo ſhall I never be uncomfortably ſurprized by it in regard of my body: And with holy <hi>Stephen,</hi> (notwithſtanding all the ſtony hearts of theſe times) I ſhall call upon God, ſaying,
+<note place="margin">Acts 7.39.</note> Lord Jeſus receive my ſpirit. <hi>Amen.</hi>
+            </p>
+            <trailer>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>.</trailer>
+            <closer>
+               <signed>P. P. <hi>Praedicator.</hi>
+               </signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="errata">
+            <head>ERRATA.</head>
+            <p>PAg. 9. <hi>line</hi> 3. and 12. for tantologie <hi>r.</hi> tantologie. <hi>p.</hi> 1<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. <hi>l.</hi> 5. for die <hi>r.</hi> do, <hi>p.</hi> 16. <hi>l.</hi> 2. for contention, <hi>r.</hi> contentment, and <hi>l.</hi> 8. for graviore, <hi>r.</hi> graviori, <hi>p.</hi> 25. <hi>l.</hi> 15. for, of the body, <hi>r.</hi> to the body, &amp; <hi>l.</hi> 29. for reſtores <hi>r.</hi> reſtored <hi>p.</hi> 28. laſt <hi>l.</hi> for undefiable <hi>r.</hi> undefeiſable.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
